@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science & Maths.
 - 💞️ I’m addicted to growing and learning everyday.
 - 📫 How to reach me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/divyanagpal11/)
+   :office: [LinkedIn](https://www.linkedin.com/in/divyanagpal11/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaNagpal11&layout=compact&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
