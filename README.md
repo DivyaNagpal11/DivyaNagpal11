@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DivyaNagpal11
+### Hi, I’m @DivyaNagpal11 👋 
+
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Python & Data Analysis
 - 🌱 I’m currently learning Data Science & Maths.
 - 💞️ I’m addicted to growing and learning everyday.
