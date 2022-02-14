@@ -1,7 +1,7 @@
 ### Hi, I’m Divya Nagpal 👋 
 
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Python & Data Analysis
-- 🌱 I’m currently learning Data Science & Maths.
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Medical Imaging.
+- 🌱 I’m currently learning Deep Learning & Maths.
 - 💞️ I’m addicted to growing and learning everyday.
 - 📫 How to reach me: 
    :office: [LinkedIn](https://www.linkedin.com/in/divyanagpal11/)
